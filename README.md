@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nurul Afiqah
-- 👀 I’m interested in coding, learning and baking cakes2
+- 👀 I’m interested in coding and learning new things.
 - 🌱 I may not be good at coding, but I'll try until it works, even if it takes time, because I enjoy the process of figuring out the solutions.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'd like to work with anyone who can help me improve my programming skills.
 - 📫 How to reach me ...
 
 <!---
